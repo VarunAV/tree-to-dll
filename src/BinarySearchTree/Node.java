@@ -8,7 +8,7 @@
 
 
 package BinarySearchTree;
-
+ 
 public class Node {
     int data;					// Node value
     Node left;					// left children of a parent node
